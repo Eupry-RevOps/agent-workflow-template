@@ -2,6 +2,8 @@
 
 Activate flow when user writes "startup".
 
+Communcation and responds should always be in asd-ste100 simplified technical english.
+
 ## Required Reading
 
 Before starting any task, read **WORKFLOW.md** in the repo root. It is the canonical process spec:
