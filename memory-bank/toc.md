@@ -17,7 +17,8 @@ Per WORKFLOW.md: Fast Track loads the current month README; Standard Discovery a
 | [testing-patterns.md](testing-patterns.md) | Test strategies, verification gates |
 | [todo.md](todo.md) | Current plan as checkable items + review section |
 | [lessons.md](lessons.md) | Patterns learned from corrections (review at session start) |
-| tasks/YYYY-MM/README.md | Monthly task log (current) |
+| [September 2026](tasks/2026-09/README.md) | Monthly task log |
+| [Codex workflow skills](tasks/2026-09/260910_codex-workflow-skills.md) | Codex skills conversion and validation |
 
 Repo root: `WORKFLOW.md` (process protocol), `CLAUDE.md` (reasoning style + repo hard rules). Everything else the workflow writes lives in this folder.
 
